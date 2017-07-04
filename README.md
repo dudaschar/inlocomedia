@@ -6,6 +6,7 @@
 - SASS
 - CSS
 - Wow JS
+- Bootstrap
 
 **Tempo de desenvolvimento**
 
